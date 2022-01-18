@@ -1,2 +1,2 @@
 # paprika
-Go project animations to spice up your waiting screens
+Go animations to spice up your waiting screens
